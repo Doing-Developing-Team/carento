@@ -5179,7 +5179,7 @@ label {
   padding: 10px 10px 10px 45px;
   transition-duration: 0.2s;
 }
-.header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a.tours {
+/* .header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a.tours {
   background-image: url(https://carento-demo.vercel.app/assets/imgs/template/icons/tour.svg);
 }
 .header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a.activities {
@@ -5187,7 +5187,7 @@ label {
 }
 .header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a.destinations {
   background-image: url(https://carento-demo.vercel.app/assets/imgs/template/icons/destination.svg);
-}
+} */
 .header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a.hotels {
   background-image: url(./imgs/template/icons/hotel.svg);
 }
@@ -5197,9 +5197,9 @@ label {
 .header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a.property {
   background-image: url(./imgs/template/icons/property.svg);
 }
-.header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a.tickets {
+/* .header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a.tickets {
   background-image: url(https://carento-demo.vercel.app/assets/imgs/template/icons/ticket.svg);
-}
+} */
 .header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a:hover {
   color: var(--bs-warning) !important;
   padding-left: 40px;
@@ -5848,13 +5848,13 @@ label {
 }
 
 .title-quicklinks {
-  background: url(https://carento-demo.vercel.app/assets/imgs/template/icons/quick-link.svg) no-repeat left center;
+  /* background: url(https://carento-demo.vercel.app/assets/imgs/template/icons/quick-link.svg) no-repeat left center; */
   padding: 0px 0px 0px 32px;
   margin-bottom: 32px;
 }
 
 .title-eventsdate {
-  background: url(https://carento-demo.vercel.app/assets/imgs/template/icons/events.svg) no-repeat left center;
+  /* background: url(https://carento-demo.vercel.app/assets/imgs/template/icons/events.svg) no-repeat left center; */
   padding: 0px 0px 0px 32px;
   margin-bottom: 32px;
 }

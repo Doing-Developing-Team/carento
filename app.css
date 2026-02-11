@@ -1168,18 +1168,18 @@ p {
   stroke: var(--bs-color-grey);
 }
 [data-bs-theme=dark] .btn.btn-dropdown {
-  background-image: url(../imgs/template/icons/arrow-down-white.svg);
+  background-image: url(./imgs/template/icons/arrow-down-white.svg);
   background-repeat: no-repeat;
 }
 [data-bs-theme=dark] #dropdownSort {
-  background: url(../imgs/template/icons/sort-w.svg) no-repeat right 16px center;
+  background: url(./imgs/template/icons/sort-w.svg) no-repeat right 16px center;
 }
 [data-bs-theme=dark] .box-top-rated {
   background-image: url(https://carento-demo.vercel.app/assets/imgs/page/homepage1/bg-top-rate.png);
 }
 [data-bs-theme=dark] .header .main-menu li.has-children > a::after,
 [data-bs-theme=dark] .header .main-menu li.has-children > a:hover::after {
-  background-image: url(../imgs/template/icons/arrow-down-white.svg);
+  background-image: url(./imgs/template/icons/arrow-down-white.svg);
 }
 [data-bs-theme=dark] .light-mode {
   display: none !important;
@@ -1199,25 +1199,25 @@ p {
   background: url(https://carento-demo.vercel.app/assets/imgs/page/homepage1/plane-w.png) no-repeat center;
 }
 [data-bs-theme=dark] .icon-cart span {
-  background: url(../imgs/template/icons/arrow-down-sm-w.svg) no-repeat right center;
+  background: url(./imgs/template/icons/arrow-down-sm-w.svg) no-repeat right center;
 }
 [data-bs-theme=dark] .card-flight .card-info .card-route .icon-route {
-  background: url(../imgs/template/icons/route.svg) no-repeat center;
+  background: url(./imgs/template/icons/route.svg) no-repeat center;
 }
 [data-bs-theme=dark] .btn.btn-dropdown-search:after {
   background-image: url(../imgs/page/homepage2/dropdown-w.svg);
 }
 [data-bs-theme=dark] .need-some-help {
-  background: url(../imgs/template/icons/user-w.svg) no-repeat left center;
+  background: url(./imgs/template/icons/user-w.svg) no-repeat left center;
 }
 [data-bs-theme=dark] .box-calendar-date::before {
   background-image: url(../imgs/page/homepage2/dropdown-w.svg);
 }
 [data-bs-theme=dark] .accordion-button::after {
-  background-image: url(../imgs/template/icons/open-faq-dark.png);
+  background-image: url(./imgs/template/icons/open-faq-dark.png);
 }
 [data-bs-theme=dark] .accordion-button:not(.collapsed)::after {
-  background-image: url(../imgs/template/icons/close-faq-dark.png);
+  background-image: url(./imgs/template/icons/close-faq-dark.png);
 }
 [data-bs-theme=dark] .box-faqs-inner {
   background-image: url(../imgs/page/homepage3/bg-faq2-dark.png);
@@ -1226,7 +1226,7 @@ p {
   background-image: url(../imgs/page/homepage3/bg-faq-dark.png);
 }
 [data-bs-theme=dark] .cb-container input:checked ~ .checkmark {
-  background-image: url(../imgs/template/icons/checked-dark.svg);
+  background-image: url(./imgs/template/icons/checked-dark.svg);
 }
 [data-bs-theme=dark] .link-see-more:hover {
   color: var(--bs-brand-1);
@@ -1236,13 +1236,13 @@ p {
 }
 [data-bs-theme=dark] .dropdown-sort .dropdown-toggle,
 [data-bs-theme=dark] .dropdown-sort #dropdownSort {
-  background-image: url(../imgs/template/icons/dropdown-dark.svg);
+  background-image: url(./imgs/template/icons/dropdown-dark.svg);
 }
 [data-bs-theme=dark] .box-filters-sidebar .block-filter .item-collapse {
-  background-image: url(../imgs/template/icons/arrow-up-dark.svg);
+  background-image: url(./imgs/template/icons/arrow-up-dark.svg);
 }
 [data-bs-theme=dark] .box-filters-sidebar .block-filter .item-collapse.collapsed-item {
-  background-image: url(../imgs/template/icons/arrow-down-filter-dark.svg);
+  background-image: url(./imgs/template/icons/arrow-down-filter-dark.svg);
 }
 [data-bs-theme=dark] .form-group input.username {
   background-image: url(../imgs/template/popup/username-w.svg);
@@ -1257,13 +1257,13 @@ p {
   fill: var(--bs-neutral-0);
 }
 [data-bs-theme=dark] .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li.has-children .menu-expand i {
-  background: url(../imgs/template/icons/arrow-right-big-w.png) no-repeat center;
+  background: url(./imgs/template/icons/arrow-right-big-w.png) no-repeat center;
 }
 [data-bs-theme=dark] .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li.has-children.active > .menu-expand i {
-  background: url(../imgs/template/icons/arrow-down-big-w.png) no-repeat center;
+  background: url(./imgs/template/icons/arrow-down-big-w.png) no-repeat center;
 }
 [data-bs-theme=dark] .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-logo .burger-icon {
-  background-image: url(../imgs/template/icons/close-w.png);
+  background-image: url(./imgs/template/icons/close-w.png);
 }
 [data-bs-theme=dark] .box-search-style-2 .btn-search-submit {
   background-image: url(https://carento-demo.vercel.app/assets/imgs/page/blog/icon-search-dark.png);
@@ -1325,7 +1325,7 @@ p {
 }
 
 .datepicker .next {
-  background-image: url(../imgs/template/icons/next-day.png);
+  background-image: url(./imgs/template/icons/next-day.png);
   background-repeat: no-repeat;
   background-position: center;
   cursor: pointer;
@@ -1333,13 +1333,13 @@ p {
   overflow: hidden;
 }
 .datepicker .next:hover {
-  background-image: url(../imgs/template/icons/next-day.png);
+  background-image: url(./imgs/template/icons/next-day.png);
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .datepicker .prev {
-  background-image: url(../imgs/template/icons/prev-day.png);
+  background-image: url(./imgs/template/icons/prev-day.png);
   background-repeat: no-repeat;
   background-position: center;
   cursor: pointer;
@@ -1347,7 +1347,7 @@ p {
   overflow: hidden;
 }
 .datepicker .prev:hover {
-  background-image: url(../imgs/template/icons/prev-day.png);
+  background-image: url(./imgs/template/icons/prev-day.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -1605,7 +1605,7 @@ body {
   font-size: 14px;
   line-height: 22px;
   font-weight: 500;
-  background: var(--bs-neutral-200) url(../imgs/template/icons/arrow-down.svg) no-repeat right 15px center;
+  background: var(--bs-neutral-200) url(./imgs/template/icons/arrow-down.svg) no-repeat right 15px center;
 }
 .btn.btn-dropdown:after {
   display: none;
@@ -2234,14 +2234,14 @@ input:checked + .slider:before {
   height: 22px;
   width: 22px;
   background-color: transparent;
-  background-image: url(../imgs/template/icons/check.svg);
+  background-image: url(./imgs/template/icons/check.svg);
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 4px;
 }
 
 .cb-container input:checked ~ .checkmark {
-  background-image: url(../imgs/template/icons/checked.svg);
+  background-image: url(./imgs/template/icons/checked.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -2490,7 +2490,7 @@ label {
   font-size: 14px;
   line-height: 22px;
   font-weight: 700;
-  background-image: url(../imgs/template/icons/lightning.svg);
+  background-image: url(./imgs/template/icons/lightning.svg);
   background-repeat: no-repeat;
   background-position: left 15px center;
 }
@@ -2505,7 +2505,7 @@ label {
   font-weight: 700;
   border: 1px solid var(--bs-border-color);
   box-shadow: 0px 2px 7px 0px rgba(0, 0, 0, 0.07);
-  background-image: url(../imgs/template/icons/star.svg);
+  background-image: url(./imgs/template/icons/star.svg);
   background-repeat: no-repeat;
   background-position: left 12px center;
 }
@@ -2660,7 +2660,7 @@ label {
   font-size: 14px;
   line-height: 22px;
   font-weight: 700;
-  background-image: url(../imgs/template/icons/lightning.svg);
+  background-image: url(./imgs/template/icons/lightning.svg);
   background-repeat: no-repeat;
   background-position: left 15px center;
 }
@@ -2675,7 +2675,7 @@ label {
   font-weight: 500;
   border: 1px solid var(--bs-border-color);
   box-shadow: 0px 2px 7px 0px rgba(0, 0, 0, 0.07);
-  background-image: url(../imgs/template/icons/star.svg);
+  background-image: url(./imgs/template/icons/star.svg);
   background-repeat: no-repeat;
   background-position: left 10px center;
 }
@@ -2698,7 +2698,7 @@ label {
   margin-bottom: 40px;
 }
 .card-journey-small .card-info .card-program .card-location .text-location {
-  background: url(../imgs/template/icons/location.svg) no-repeat left center;
+  background: url(./imgs/template/icons/location.svg) no-repeat left center;
   padding-left: 20px;
 }
 .card-journey-small .card-info .card-program .card-location .text-star img {
@@ -2723,16 +2723,16 @@ label {
   color: #000000;
 }
 .card-journey-small .card-info .card-program .card-facitlities .card-miles {
-  background: url(../imgs/template/icons/mile.svg) no-repeat left center;
+  background: url(./imgs/template/icons/mile.svg) no-repeat left center;
 }
 .card-journey-small .card-info .card-program .card-facitlities .card-gear {
-  background: url(../imgs/template/icons/automatic.svg) no-repeat left center;
+  background: url(./imgs/template/icons/automatic.svg) no-repeat left center;
 }
 .card-journey-small .card-info .card-program .card-facitlities .card-fuel {
-  background: url(../imgs/template/icons/fuel.svg) no-repeat left center;
+  background: url(./imgs/template/icons/fuel.svg) no-repeat left center;
 }
 .card-journey-small .card-info .card-program .card-facitlities .card-seat {
-  background: url(../imgs/template/icons/seat.svg) no-repeat left center;
+  background: url(./imgs/template/icons/seat.svg) no-repeat left center;
 }
 .card-journey-small .card-info .card-program .duration {
   margin-bottom: 45px;
@@ -2751,11 +2751,11 @@ label {
 }
 .card-journey-small .card-info .card-program .icon-duration {
   padding: 0px 20px 0px 22px;
-  background: url(../imgs/template/icons/duration.svg) no-repeat left center;
+  background: url(./imgs/template/icons/duration.svg) no-repeat left center;
 }
 .card-journey-small .card-info .card-program .icon-guest {
   padding: 0px 0px 0px 22px;
-  background: url(../imgs/template/icons/guest.svg) no-repeat left center;
+  background: url(./imgs/template/icons/guest.svg) no-repeat left center;
 }
 .card-journey-small .card-info .card-program .endtime {
   display: flex;
@@ -3119,7 +3119,7 @@ label {
 }
 .card-flight .card-info .card-date .date-1 {
   color: var(--bs-neutral-500);
-  background: url(../imgs/template/icons/clock.svg) no-repeat left center;
+  background: url(./imgs/template/icons/clock.svg) no-repeat left center;
   display: inline-block;
   padding: 0px 0px 0px 20px;
   font-size: 16px;
@@ -3131,7 +3131,7 @@ label {
   margin: 0px 16px;
   height: 1px;
   width: 18px;
-  background: url(../imgs/template/icons/line.png) no-repeat center;
+  background: url(./imgs/template/icons/line.png) no-repeat center;
 }
 .card-flight .card-info .card-route {
   display: flex;
@@ -3143,7 +3143,7 @@ label {
   margin: 0px 18px;
   height: 24px;
   width: 24px;
-  background: url(../imgs/template/icons/icon-route.svg) no-repeat center;
+  background: url(./imgs/template/icons/icon-route.svg) no-repeat center;
 }
 .card-flight .card-info .card-price {
   display: flex;
@@ -3208,7 +3208,7 @@ label {
   margin-bottom: 45px;
 }
 .card-flight.card-hotel .card-info .card-program .card-location .text-location {
-  background: url(../imgs/template/icons/location.svg) no-repeat left center;
+  background: url(./imgs/template/icons/location.svg) no-repeat left center;
   padding-left: 20px;
 }
 .card-flight.card-hotel .card-info .card-program .card-location .text-star img {
@@ -3260,11 +3260,11 @@ label {
 }
 .card-flight.card-hotel .card-info .card-program .icon-duration {
   padding: 0px 20px 0px 22px;
-  background: url(../imgs/template/icons/duration.svg) no-repeat left center;
+  background: url(./imgs/template/icons/duration.svg) no-repeat left center;
 }
 .card-flight.card-hotel .card-info .card-program .icon-guest {
   padding: 0px 0px 0px 22px;
-  background: url(../imgs/template/icons/guest.svg) no-repeat left center;
+  background: url(./imgs/template/icons/guest.svg) no-repeat left center;
 }
 .card-flight.card-hotel .card-info .card-program .endtime {
   display: flex;
@@ -3431,7 +3431,7 @@ label {
 .card-news .card-info .card-meta .post-date {
   display: inline-block;
   padding: 0px 16px 0px 20px;
-  background: url(../imgs/template/icons/calendar.svg) no-repeat left center;
+  background: url(./imgs/template/icons/calendar.svg) no-repeat left center;
   font-size: 14px;
   line-height: 22px;
   font-weight: 500;
@@ -3444,7 +3444,7 @@ label {
   line-height: 22px;
   font-weight: 500;
   color: var(--bs-neutral-1000);
-  background: url(../imgs/template/icons/time.svg) no-repeat left center;
+  background: url(./imgs/template/icons/time.svg) no-repeat left center;
 }
 .card-news .card-info .card-meta .post-comment {
   display: inline-block;
@@ -3453,7 +3453,7 @@ label {
   line-height: 22px;
   font-weight: 500;
   color: var(--bs-neutral-1000);
-  background: url(../imgs/template/icons/comment.svg) no-repeat left center;
+  background: url(./imgs/template/icons/comment.svg) no-repeat left center;
 }
 .card-news .card-info .card-title {
   margin-bottom: 34px;
@@ -3474,7 +3474,7 @@ label {
   margin-bottom: 45px;
 }
 .card-news .card-info .card-program .card-location .text-location {
-  background: url(../imgs/template/icons/location.svg) no-repeat left center;
+  background: url(./imgs/template/icons/location.svg) no-repeat left center;
   padding-left: 20px;
 }
 .card-news .card-info .card-program .card-location .text-star img {
@@ -4901,7 +4901,7 @@ label {
 }
 .top-bar-2 .text-header .text-unlock {
   color: var(--bs-neutral-0);
-  background-image: url(../imgs/template/icons/car-front-fill-1.svg);
+  background-image: url(./imgs/template/icons/car-front-fill-1.svg);
 }
 .top-bar-2 .text-header .link-secondary {
   color: var(--bs-neutral-0);
@@ -4999,7 +4999,7 @@ label {
   content: "";
   height: 10px;
   width: 10px;
-  background: url(../imgs/template/icons/arrow-down.svg) no-repeat center;
+  background: url(./imgs/template/icons/arrow-down.svg) no-repeat center;
   opacity: 1;
   margin-left: 0px;
   position: absolute;
@@ -5008,13 +5008,13 @@ label {
   opacity: 0.6;
 }
 .header .main-menu li.has-children > a:hover::after {
-  background: url(../imgs/template/icons/arrow-down.svg) no-repeat center;
+  background: url(./imgs/template/icons/arrow-down.svg) no-repeat center;
 }
 .header .main-menu li.arrow-white > a::after {
-  background: url(../imgs/template/icons/arrow-down-white.svg) no-repeat center;
+  background: url(./imgs/template/icons/arrow-down-white.svg) no-repeat center;
 }
 .header .main-menu li.arrow-white > a:hover::after {
-  background: url(../imgs/template/icons/arrow-down-white.svg) no-repeat center;
+  background: url(./imgs/template/icons/arrow-down-white.svg) no-repeat center;
 }
 .header .main-menu li.hr {
   padding: 0px 22px;
@@ -5189,13 +5189,13 @@ label {
   background-image: url(https://carento-demo.vercel.app/assets/imgs/template/icons/destination.svg);
 }
 .header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a.hotels {
-  background-image: url(../imgs/template/icons/hotel.svg);
+  background-image: url(./imgs/template/icons/hotel.svg);
 }
 .header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a.rental-car {
-  background-image: url(../imgs/template/icons/rental.svg);
+  background-image: url(./imgs/template/icons/rental.svg);
 }
 .header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a.property {
-  background-image: url(../imgs/template/icons/property.svg);
+  background-image: url(./imgs/template/icons/property.svg);
 }
 .header .main-menu li.mega-li .mega-menu .mega-menu-inner .list-featured li a.tickets {
   background-image: url(https://carento-demo.vercel.app/assets/imgs/template/icons/ticket.svg);
@@ -5301,13 +5301,13 @@ label {
   color: #fff;
 }
 .header.header-fixed.header .icon-lang span {
-  background: url(../imgs/template/icons/arrow-lang.svg) no-repeat right center;
+  background: url(./imgs/template/icons/arrow-lang.svg) no-repeat right center;
 }
 .header.header-fixed.header .icon-cart {
   color: #fff;
 }
 .header.header-fixed.header .icon-cart span {
-  background: url(../imgs/template/icons/arrow-lang.svg) no-repeat right center;
+  background: url(./imgs/template/icons/arrow-lang.svg) no-repeat right center;
 }
 .header.header-fixed.sticky-bar.stick {
   background-color: rgba(45, 74, 44, 0.6);
@@ -5355,7 +5355,7 @@ label {
 .icon-lang span {
   display: inline-block;
   padding: 0px 18px 0px 0px;
-  background: url(../imgs/template/icons/arrow-down-sm.svg) no-repeat right center;
+  background: url(./imgs/template/icons/arrow-down-sm.svg) no-repeat right center;
 }
 
 .icon-cart {
@@ -5368,7 +5368,7 @@ label {
 .icon-cart span {
   display: inline-block;
   padding: 0px 18px 0px 0px;
-  background: url(../imgs/template/icons/arrow-down-sm.svg) no-repeat right center;
+  background: url(./imgs/template/icons/arrow-down-sm.svg) no-repeat right center;
 }
 
 .box-desc-menu {
@@ -5496,7 +5496,7 @@ label {
   right: 21px;
   width: 56px;
   height: 46px;
-  background: url(../imgs/template/icons/search.svg) no-repeat center;
+  background: url(./imgs/template/icons/search.svg) no-repeat center;
   background-color: var(--bs-neutral-950);
   border: 0px;
   border-radius: 0px 8px 8px 0;
@@ -5570,7 +5570,7 @@ label {
   height: 42px;
   width: 42px;
   background-color: var(--bs-neutral-100);
-  background-image: url(../imgs/template/icons/close.png);
+  background-image: url(./imgs/template/icons/close.png);
   background-position: center;
   background-repeat: no-repeat;
   top: auto;
@@ -5638,7 +5638,7 @@ label {
   width: 24px;
   display: inline-block;
   opacity: 1;
-  background: url(../imgs/template/icons/arrow-right-big.svg) no-repeat center;
+  background: url(./imgs/template/icons/arrow-right-big.svg) no-repeat center;
 }
 .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li.has-children.active > .menu-expand,
 .sidebar-canvas-wrapper .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li.has-children.active > .menu-expand {
@@ -5646,7 +5646,7 @@ label {
 }
 .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li.has-children.active > .menu-expand i,
 .sidebar-canvas-wrapper .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li.has-children.active > .menu-expand i {
-  background: url(../imgs/template/icons/arrow-down-big.svg) no-repeat center;
+  background: url(./imgs/template/icons/arrow-down-big.svg) no-repeat center;
 }
 .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li a,
 .sidebar-canvas-wrapper .mobile-header-wrapper-inner .mobile-header-content-area .mobile-menu-wrap nav .mobile-menu li a {
@@ -5860,13 +5860,13 @@ label {
 }
 
 .title-savedplaces {
-  background: url(../imgs/template/icons/saved-place.svg) no-repeat left center;
+  background: url(./imgs/template/icons/saved-place.svg) no-repeat left center;
   padding: 0px 0px 0px 32px;
   margin-bottom: 32px;
 }
 
 .title-contactus {
-  background: url(../imgs/template/icons/contact.svg) no-repeat left center;
+  background: url(./imgs/template/icons/contact.svg) no-repeat left center;
   padding: 0px 0px 0px 32px;
   margin-bottom: 32px;
 }
@@ -5910,11 +5910,11 @@ label {
 }
 .box-list-quicklinks .item-quicklinks .item-info .online {
   padding: 0px 0px 0px 15px;
-  background: url(../imgs/template/icons/online.svg) no-repeat left center;
+  background: url(./imgs/template/icons/online.svg) no-repeat left center;
 }
 .box-list-quicklinks .item-quicklinks .item-info .resolved {
   padding: 0px 0px 0px 15px;
-  background: url(../imgs/template/icons/resolved.svg) no-repeat left center;
+  background: url(./imgs/template/icons/resolved.svg) no-repeat left center;
 }
 
 .box-eventsdate,
@@ -5925,19 +5925,19 @@ label {
 
 .contact-info .address-2 {
   padding: 0px 0px 0px 23px;
-  background: url(../imgs/template/icons/address2.svg) no-repeat left top 4px;
+  background: url(./imgs/template/icons/address2.svg) no-repeat left top 4px;
   color: var(--bs-neutral-400);
   margin-bottom: 19px;
 }
 .contact-info .hour-work-2 {
   padding: 0px 0px 0px 23px;
-  background: url(../imgs/template/icons/hour-work2.svg) no-repeat left top 5px;
+  background: url(./imgs/template/icons/hour-work2.svg) no-repeat left top 5px;
   color: var(--bs-neutral-400);
   margin-bottom: 19px;
 }
 .contact-info .email-2 {
   padding: 0px 0px 0px 23px;
-  background: url(../imgs/template/icons/mail2.svg) no-repeat left top 5px;
+  background: url(./imgs/template/icons/mail2.svg) no-repeat left top 5px;
   color: var(--bs-neutral-400);
   margin-bottom: 19px;
 }
@@ -6198,17 +6198,17 @@ label {
 
 .icon-address {
   padding: 0px 0px 0px 25px;
-  background: url(../imgs/template/icons/address.svg) no-repeat left top;
+  background: url(./imgs/template/icons/address.svg) no-repeat left top;
 }
 
 .icon-worktime {
   padding: 0px 0px 0px 25px;
-  background: url(../imgs/template/icons/hour-work.svg) no-repeat left top 4px;
+  background: url(./imgs/template/icons/hour-work.svg) no-repeat left top 4px;
 }
 
 .icon-email {
   padding: 0px 0px 0px 25px;
-  background: url(../imgs/template/icons/mail.svg) no-repeat left top 6px;
+  background: url(./imgs/template/icons/mail.svg) no-repeat left top 6px;
 }
 
 .footer-top {
@@ -6221,7 +6221,7 @@ label {
 }
 
 .need-help {
-  background: url(../imgs/template/icons/phone.svg) no-repeat left center;
+  background: url(./imgs/template/icons/phone.svg) no-repeat left center;
   display: inline-block;
   padding: 0px 19px 0px 35px;
   color: var(--bs-color-white);
@@ -8510,7 +8510,7 @@ a.icon-socials:hover svg path {
   padding: 0px 76px;
 }
 .block-subscriber .subscriber-left .form-control {
-  background-image: url(../imgs/template/icons/email.png);
+  background-image: url(./imgs/template/icons/email.png);
   padding: 19px 24px 19px 50px;
   background-repeat: no-repeat;
   background-position: left 24px center;
@@ -8556,7 +8556,7 @@ a.icon-socials:hover svg path {
 .post-date {
   display: inline-block;
   padding: 0px 16px 0px 20px;
-  background: url(../imgs/template/icons/calendar.svg) no-repeat left center;
+  background: url(./imgs/template/icons/calendar.svg) no-repeat left center;
   font-size: 14px;
   line-height: 22px;
   font-weight: 500;
@@ -8570,7 +8570,7 @@ a.icon-socials:hover svg path {
   line-height: 22px;
   font-weight: 500;
   color: var(--bs-neutral-1000);
-  background: url(../imgs/template/icons/time.svg) no-repeat left center;
+  background: url(./imgs/template/icons/time.svg) no-repeat left center;
 }
 
 .post-comment {
@@ -8580,7 +8580,7 @@ a.icon-socials:hover svg path {
   line-height: 22px;
   font-weight: 500;
   color: var(--bs-neutral-1000);
-  background: url(../imgs/template/icons/comment.svg) no-repeat left center;
+  background: url(./imgs/template/icons/comment.svg) no-repeat left center;
 }
 
 .content-detail-post {
@@ -8754,25 +8754,25 @@ a.icon-socials:hover svg path {
   background-image: url(../imgs/page/homepage8/seat.svg);
 }
 .card-property.card-flight.card-hotel .card-facilities .item-facilities p.room {
-  background-image: url(../imgs/template/icons/mile.svg);
+  background-image: url(./imgs/template/icons/mile.svg);
 }
 .card-property.card-flight.card-hotel .card-facilities .item-facilities p.pax {
   background-image: url(https://carento-demo.vercel.app/assets/imgs/page/hotel/pax.svg);
 }
 .card-property.card-flight.card-hotel .card-facilities .item-facilities p.size {
-  background-image: url(../imgs/template/icons/automatic.svg);
+  background-image: url(./imgs/template/icons/automatic.svg);
 }
 .card-property.card-flight.card-hotel .card-facilities .item-facilities p.bed {
-  background-image: url(../imgs/template/icons/fuel.svg);
+  background-image: url(./imgs/template/icons/fuel.svg);
 }
 .card-property.card-flight.card-hotel .card-facilities .item-facilities p.bathroom {
-  background-image: url(../imgs/template/icons/seat.svg);
+  background-image: url(./imgs/template/icons/seat.svg);
 }
 .card-property.card-flight.card-hotel .card-facilities .item-facilities p.parking {
-  background-image: url(../imgs/template/icons/suitcase.svg);
+  background-image: url(./imgs/template/icons/suitcase.svg);
 }
 .card-property.card-flight.card-hotel .card-facilities .item-facilities p.pet {
-  background-image: url(../imgs/template/icons/car.svg);
+  background-image: url(./imgs/template/icons/car.svg);
 }
 
 .card-method-contact2 a {
@@ -9305,7 +9305,7 @@ a.icon-socials:hover svg path {
 
 #dropdownSort {
   padding-right: 40px;
-  background: url(../imgs/template/icons/sort.svg) no-repeat right 16px center;
+  background: url(./imgs/template/icons/sort.svg) no-repeat right 16px center;
 }
 
 .box-list-populars {
@@ -9328,7 +9328,7 @@ a.icon-socials:hover svg path {
   margin-right: 13px;
   display: inline-block;
   padding: 2px 0px 2px 20px;
-  background: url(../imgs/template/icons/icon1.svg) no-repeat left center;
+  background: url(./imgs/template/icons/icon1.svg) no-repeat left center;
 }
 
 .category-link {
@@ -9584,7 +9584,7 @@ a.icon-socials:hover svg path {
 }
 
 .accordion-button::after {
-  background-image: url(../imgs/template/icons/open-faq.png);
+  background-image: url(./imgs/template/icons/open-faq.png);
   transform: rotate(0deg);
   background-position: center;
   background-color: var(--bs-neutral-100);
@@ -9598,7 +9598,7 @@ a.icon-socials:hover svg path {
 }
 
 .accordion-button:not(.collapsed)::after {
-  background-image: url(../imgs/template/icons/close-faq.png);
+  background-image: url(./imgs/template/icons/close-faq.png);
   background-color: var(--bs-neutral-1000);
 }
 
@@ -9974,14 +9974,14 @@ a.icon-socials:hover svg path {
 }
 .box-filters-sidebar .block-filter .item-collapse {
   margin-bottom: 20px;
-  background-image: url(../imgs/template/icons/arrow-up.svg);
+  background-image: url(./imgs/template/icons/arrow-up.svg);
   background-position: right center;
   background-repeat: no-repeat;
   padding-right: 20px;
   cursor: pointer;
 }
 .box-filters-sidebar .block-filter .item-collapse.collapsed-item {
-  background-image: url(../imgs/template/icons/arrow-down-filter.svg);
+  background-image: url(./imgs/template/icons/arrow-down-filter.svg);
 }
 .box-filters-sidebar .block-filter .list-sizes .item-size.active {
   font-weight: 500;
@@ -10088,7 +10088,7 @@ a.icon-socials:hover svg path {
   line-height: 18px;
   font-weight: 500;
   color: var(--bs-neutral-1000);
-  background-image: url(../imgs/template/icons/dropdown.svg);
+  background-image: url(./imgs/template/icons/dropdown.svg);
   background-position: right 1px center;
   padding-right: 19px;
   background-repeat: no-repeat;
@@ -10149,7 +10149,7 @@ a.icon-socials:hover svg path {
   border: 1px solid var(--bs-border-color);
   border-radius: 33px;
   padding: 6px 16px 6px 30px;
-  background-image: url(../imgs/template/icons/star.svg);
+  background-image: url(./imgs/template/icons/star.svg);
   background-repeat: no-repeat;
   background-position: left 12px center;
   box-shadow: 0px 2px 7px 0px rgba(0, 0, 0, 0.07);
@@ -10691,7 +10691,7 @@ a.icon-socials:hover svg path {
 }
 
 .btn-clear-filter {
-  background: url(../imgs/template/icons/close-filter.svg) no-repeat left center;
+  background: url(./imgs/template/icons/close-filter.svg) no-repeat left center;
   font-size: 14px;
   line-height: 22px;
   font-weight: 500;

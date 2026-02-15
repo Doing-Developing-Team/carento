@@ -95,7 +95,7 @@ TABLE CONTENT
   --bs-color-2: var(--color-secondary);
   --bs-color-grey-2: var(--color-light-grey);
   --bs-neutral-950: var(--main-text-color-dark);
-  --bs-primary-rgb: 112, 244, 109;
+  --bs-primary-rgb: var(--color-primary);
 }
 
 /*import vendors*/
@@ -3896,7 +3896,7 @@ label {
   height: 101px;
   width: 101px;
   margin: auto;
-  background: url(../imgs/cta/cta-1/play.png) no-repeat center;
+  background: url(./imgs/template/icons/play.png) no-repeat center;
   background-size: cover;
 }
 .card-video .card-image img {
@@ -4195,7 +4195,7 @@ label {
   left: 0px;
   right: 0px;
   margin: auto;
-  background: url(../imgs/cta/cta-1/play.png) no-repeat center;
+  background: url(./imgs/template/icons/play.png) no-repeat center;
   background-size: cover;
   z-index: 12;
   margin-top: -30px;
@@ -4230,7 +4230,7 @@ label {
   height: 90px;
   width: 90px;
   margin: auto;
-  background: url(../imgs/cta/cta-1/play.png) no-repeat center;
+  background: url(./imgs/template/icons/play.png) no-repeat center;
   background-size: cover;
   z-index: 12;
 }

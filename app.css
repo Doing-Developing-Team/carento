@@ -29,13 +29,32 @@ TABLE CONTENT
 @import url(https://fonts.googleapis.com/css2?family=Urbanist:wght@100..900&display=swap);
 
 :root {
-  --bs-border-color: #dde1de;
+  /* Primary, secondary & text (theme colors) */
+  /* --infinte-color: #c9c9c9;
+  --main-text-color: #231f1e;
+  --main-text-color-dark: #2b2d34;
+  --color-primary: #70f46d;
+  --color-primary-d: #5edd5b;
+  --color-primary-l: #676668;
+  --color-primary-reverse: #ff6767;
+  --color-secondary: #8acfff;
+  --color-text: #7c8082;
+  --bg-gray: rgba(198, 199, 206, 0.10196);
+  --color-grey: #f5f7f9;
+  --color-light-grey: #eeeeee; */
+  /* font-size */
+  /* --font-sm: 0.8685714286rem;
+  --font-main: "Urbanist", sans-serif; */
+  /* plugins */
+  /* --mm-ocd-width: calc(100% - 51px); */
+  /* Compatibility: map old --bs-* to new variables (so existing rules keep working) */
+  --bs-border-color: var(--color-light-grey);
   --bs-color-white: #ffffff;
-  --bs-color-black: #000000;
-  --bs-color-700: #4d4d4d;
-  --bs-background-1000: #000000;
+  --bs-color-black: var(--main-text-color-dark);
+  --bs-color-700: var(--color-text);
+  --bs-background-1000: var(--main-text-color-dark);
   --bs-background-white: #ffffff;
-  --bs-color-1000: #000000;
+  --bs-color-1000: var(--main-text-color-dark);
   --bs-background-body: #ffffff;
   --bs-background-1: #fff0ec;
   --bs-background-2: #d8f4db;
@@ -49,33 +68,33 @@ TABLE CONTENT
   --bs-background-12: #a8e2ef;
   --bs-background-card: #ffffff;
   --bs-neutral-0: #ffffff;
-  --bs-neutral-100: #f2f4f6;
-  --bs-neutral-200: #e4e6e8;
+  --bs-neutral-100: var(--color-grey);
+  --bs-neutral-200: var(--color-light-grey);
   --bs-neutral-300: #d6d7d8;
-  --bs-neutral-400: #8e8e8e;
-  --bs-neutral-500: #737373;
-  --bs-neutral-600: #575756;
-  --bs-neutral-700: #4d4d4d;
-  --bs-neutral-800: #454545;
-  --bs-neutral-900: #313131;
-  --bs-neutral-1000: #000000;
-  --bs-button-bg: #70f46d;
-  --bs-button-bg-2: #f2f4f6;
-  --bs-button-text: #101010;
-  --bs-button-text-2: #000000;
-  --bs-brand-2: #70f46d;
-  --bs-brand-2-dark: #70f46d;
-  --bs-brand-2-darken: #5edd5b;
-  --bs-brand-2-light: #2d4a2c;
-  --bs-link-hover-color: #235922;
-  --bs-brand-1: #8acfff;
+  --bs-neutral-400: var(--color-text);
+  --bs-neutral-500: var(--color-text);
+  --bs-neutral-600: var(--main-text-color-dark);
+  --bs-neutral-700: var(--color-text);
+  --bs-neutral-800: var(--main-text-color-dark);
+  --bs-neutral-900: var(--main-text-color-dark);
+  --bs-neutral-1000: var(--main-text-color-dark);
+  --bs-button-bg: var(--color-primary);
+  --bs-button-bg-2: var(--color-grey);
+  --bs-button-text: var(--main-text-color);
+  --bs-button-text-2: var(--main-text-color-dark);
+  --bs-brand-2: var(--color-primary);
+  --bs-brand-2-dark: var(--color-primary);
+  --bs-brand-2-darken: var(--color-primary-d);
+  --bs-brand-2-light: var(--color-primary-l);
+  --bs-link-hover-color: var(--color-primary-d);
+  --bs-brand-1: var(--color-secondary);
   --bs-warning: #ffc700;
   --bs-success: #34d674;
-  --bs-danger: #ff2e00;
-  --bs-color-grey: #afafaf;
-  --bs-color-2: #c5ff41;
-  --bs-color-grey-2: #f0f0f0;
-  --bs-neutral-950: #1e1e1e;
+  --bs-danger: var(--color-primary-reverse);
+  --bs-color-grey: var(--color-text);
+  --bs-color-2: var(--color-secondary);
+  --bs-color-grey-2: var(--color-light-grey);
+  --bs-neutral-950: var(--main-text-color-dark);
   --bs-primary-rgb: 112, 244, 109;
 }
 
